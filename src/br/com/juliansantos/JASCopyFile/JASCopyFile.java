@@ -1,4 +1,4 @@
-package br.com.juliansantos;
+package br.com.juliansantos.JASCopyFile;
 
 import java.io.File;
 import java.io.FileInputStream;
