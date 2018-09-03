@@ -1,3 +1,2 @@
 # JASCopyFile
-
-Biblioteca para realizar cópia de arquivos.
+library that makes it easy to copy between files.
