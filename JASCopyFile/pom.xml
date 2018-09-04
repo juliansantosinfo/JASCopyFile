@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.juliansantosinfo</groupId>
     <artifactId>JASCopyFile</artifactId>
-    <version>0.01</version>
+    <version>0.01-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>JASCopyFile</name>
     <description>JASCopyFile is a library that makes it easy to copy between files using swing.</description>
@@ -42,6 +42,7 @@
             <id>sonatype-nexus-staging</id>
             <name>Sonatype Nexus release repository</name>
             <url>https://oss.sonatype.org/content/repositories/releases/</url>
+            <!-- <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url> -->
         </repository>
     </distributionManagement>
     
