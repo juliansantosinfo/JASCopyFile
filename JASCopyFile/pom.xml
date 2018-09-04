@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.juliansantosinfo</groupId>
     <artifactId>JASCopyFile</artifactId>
-    <version>0.01-SNAPSHOT</version>
+    <version>0.01</version>
     <packaging>jar</packaging>
     <name>JASCopyFile</name>
     <description>JASCopyFile is a library that makes it easy to copy between files using swing.</description>
